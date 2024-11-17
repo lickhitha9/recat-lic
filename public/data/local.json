@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Fluffy Teddy Bear",
+    "brand": "Cuddle Buddies",
+    "price": 1999,
+    "image": "https://m.media-amazon.com/images/I/714k2sWBCML._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "A super soft and cuddly teddy bear, perfect for hugs."
+  },
+  {
+    "id": 2,
+    "name": "Rose Gold Necklace",
+    "brand": "Elegant Charms",
+    "price": 4999,
+    "image": "https://m.media-amazon.com/images/I/61WxHM51f6L._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "A delicate rose gold necklace with a heart pendant."
+  },
+  {
+    "id": 3,
+    "name": "Floral Diary",
+    "brand": "Bloom Stationery",
+    "price": 999,
+    "image": "https://m.media-amazon.com/images/I/81A+9JEi5zL._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "A beautiful diary with floral prints, ideal for journaling."
+  },
+  {
+    "id": 4,
+    "name": "Makeup Brush Set",
+    "brand": "Glam Tools",
+    "price": 2599,
+    "image": "https://m.media-amazon.com/images/I/61HfQCOX2jL._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "A set of premium brushes for flawless makeup application."
+  },
+  {
+    "id": 5,
+    "name": "Polaroid Camera",
+    "brand": "Insta Memories",
+    "price": 5999,
+    "image": "https://m.media-amazon.com/images/I/81OWQ+qpqTL._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "A compact Polaroid camera to capture and print memories instantly."
+  },
+  {
+    "id": 6,
+    "name": "Pink Backpack",
+    "brand": "Trendy Bags",
+    "price": 2499,
+    "image": "https://m.media-amazon.com/images/I/41sYNHjUMBL._SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "A stylish and durable backpack in pastel pink."
+  },
+  {
+    "id": 7,
+    "name": "Scented Candles",
+    "brand": "Aroma Bliss",
+    "price": 1499,
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/61paoQad7gL._AC_UL165_SR165,165_.jpg",
+    "description": "A set of soothing scented candles for a cozy atmosphere."
+  },
+  {
+    "id": 8,
+    "name": "Plush Unicorn Pillow",
+    "brand": "Dreamy Comforts",
+    "price": 1299,
+    "image": "https://m.media-amazon.com/images/I/714k2sWBCML._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "A soft and adorable unicorn-shaped pillow for relaxation."
+  },
+  {
+    "id": 9,
+    "name": "Heart-shaped Pendant",
+    "brand": "Love Jewelry",
+    "price": 3499,
+    "image": "https://m.media-amazon.com/images/I/81A+9JEi5zL._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "A timeless heart-shaped pendant for a classy look."
+  },
+  {
+    "id": 10,
+    "name": "Fluffy Bunny Slippers",
+    "brand": "Cozy Wear",
+    "price": 999,
+    "image": "https://m.media-amazon.com/images/I/81OWQ+qpqTL._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "Cute and cozy bunny slippers to keep your feet warm."
+  },
+  {
+    "id": 11,
+    "name": "Mini Succulent Set",
+    "brand": "Green Decor",
+    "price": 799,
+    "image": "https://m.media-amazon.com/images/I/41sYNHjUMBL._SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "A set of adorable mini succulents for home decor."
+  },
+  {
+    "id": 12,
+    "name": "Fairy Lights",
+    "brand": "Glow Home",
+    "price": 699,
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/61paoQad7gL._AC_UL165_SR165,165_.jpg",
+    "description": "Warm fairy lights to add a magical touch to any room."
+  },
+  {
+    "id": 13,
+    "name": "Pastel Nail Polish Set",
+    "brand": "Color Me Pretty",
+    "price": 899,
+    "image": "https://m.media-amazon.com/images/I/714k2sWBCML._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "A set of pastel nail polishes for a trendy manicure."
+  },
+  {
+    "id": 14,
+    "name": "Velvet Scrunchies",
+    "brand": "Hair Bliss",
+    "price": 499,
+    "image": "https://m.media-amazon.com/images/I/81OWQ+qpqTL._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "A pack of soft velvet scrunchies in various colors."
+  },
+  {
+    "id": 15,
+    "name": "Lip Gloss Kit",
+    "brand": "Shiny Lips",
+    "price": 1199,
+    "image": "https://m.media-amazon.com/images/I/81A+9JEi5zL._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "A kit of moisturizing lip glosses for shiny lips."
+  },
+  {
+    "id": 16,
+    "name": "Dreamcatcher",
+    "brand": "Mystic Decor",
+    "price": 1299,
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/61paoQad7gL._AC_UL165_SR165,165_.jpg",
+    "description": "A handcrafted dreamcatcher for peaceful dreams."
+  },
+  {
+    "id": 17,
+    "name": "Rose Bath Bombs",
+    "brand": "Blissful Bath",
+    "price": 1099,
+    "image": "https://m.media-amazon.com/images/I/714k2sWBCML._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "Relaxing bath bombs with a rose fragrance."
+  },
+  {
+    "id": 18,
+    "name": "Cute Cat Mug",
+    "brand": "Meow Accessories",
+    "price": 899,
+    "image": "https://m.media-amazon.com/images/I/714k2sWBCML._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "A ceramic mug with a cute cat design."
+  },
+  {
+    "id": 19,
+    "name": "Kawaii Stickers",
+    "brand": "Fun Deco",
+    "price": 599,
+    "image": "https://m.media-amazon.com/images/I/81OWQ+qpqTL._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "A set of adorable stickers to decorate notebooks and gadgets."
+  },
+  {
+    "id": 20,
+    "name": "Soft Plush Blanket",
+    "brand": "Warm Hugs",
+    "price": 2999,
+    "image": "https://m.media-amazon.com/images/I/41sYNHjUMBL._SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "A super soft plush blanket for ultimate comfort."
+  }
+]

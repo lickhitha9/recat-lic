@@ -1,0 +1,37 @@
+.sidebar {
+  width: 200px; /* Adjust width as needed */
+  background-color: #ffe6f2; /* Light pink background for contrast */
+  padding: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  border-radius: 8px; /* Rounded corners */
+}
+
+.sidebar h2 {
+  margin: 0 0 20px;
+  color: #d63384; /* Dark pink for better readability */
+  font-family: 'Arial', sans-serif; /* Clean font style */
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin: 10px 0;
+}
+
+.sidebar li a {
+  text-decoration: none; /* Remove underline */
+  color: #c2185b; /* Pink link color */
+  font-weight: bold; /* Bold links */
+  padding: 10px;
+  display: block; /* Make the entire area clickable */
+  border-radius: 5px; /* Rounded corners for links */
+  transition: background-color 0.3s, color 0.3s; /* Smooth hover effect */
+}
+
+.sidebar li a:hover {
+  background-color: #f8bbd0; /* Light pink background on hover */
+  color: #880e4f; /* Darker pink link color on hover */
+}
